@@ -1,19 +1,45 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 3
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md) | HandedOffSuccess | [Details](#e3dce7811b66d328d1092664b0410605f9a88d1f589)
+ [articles\app-service\app-service-include-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/20c505f716d1b76e19b84f635875444ab724d08b/articles/app-service/app-service-include-scale.md) | HandedOffSuccess | [Details](#afe10e26b5201d92d21ae591d8df816635ca90b7581)
+ [articles\app-service\app-service-local-cache.md](https://github.com/OpenLocalizationOrg/hyperV/blob/20c505f716d1b76e19b84f635875444ab724d08b/articles/app-service/app-service-local-cache.md) | HandedOffSuccess | [Details](#b6b54380855fbabc1bef35399f7d1623ac7bcb85582)
+ [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/20c505f716d1b76e19b84f635875444ab724d08b/articles/app-service/test-exclude1.md) | HandedOffSuccess | [Details](#d806969f84c9f0307115a9f90c37df067a9de280591)
 
 ## Item Details
-##### <a name='e3dce7811b66d328d1092664b0410605f9a88d1f589'></a> Source: [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/832fe5429e3ee60871f7f8f25c0617d2d504fb3f/articles/app-service/test-exclude1.md)
+##### <a name='afe10e26b5201d92d21ae591d8df816635ca90b7581'></a> Source: [articles\app-service\app-service-include-scale.md](https://github.com/OpenLocalizationOrg/hyperV/blob/20c505f716d1b76e19b84f635875444ab724d08b/articles/app-service/app-service-include-scale.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.pl-pl.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fdbc86547bfa354be02ac204dfcf008cfd6ed3f8/ol-handoff/OpenLocalizationOrg/hyperV.pl-pl/master/acomdc_nonhi/test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.pl-pl.xlf)
-* Handoff Datetime: 2016-03-30 02:07:46
+* Handoff File: [app-service-include-scale.25ed6d8f21722659fcbfd91d6928eb2941050dcf.pl-pl.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d95631b3aaa882bc5559dbede99ad269a549fde/ol-handoff/OpenLocalizationOrg/hyperV.pl-pl/master/acomdc_nonhi/app-service-include-scale.25ed6d8f21722659fcbfd91d6928eb2941050dcf.pl-pl.xlf)
+* Handoff Datetime: 2016-03-30 03:23:23
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='b6b54380855fbabc1bef35399f7d1623ac7bcb85582'></a> Source: [articles\app-service\app-service-local-cache.md](https://github.com/OpenLocalizationOrg/hyperV/blob/20c505f716d1b76e19b84f635875444ab724d08b/articles/app-service/app-service-local-cache.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [app-service-local-cache.f3249101949638713501595600a831f5b09e54eb.pl-pl.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d95631b3aaa882bc5559dbede99ad269a549fde/ol-handoff/OpenLocalizationOrg/hyperV.pl-pl/master/acomdc_nonhi/app-service-local-cache.f3249101949638713501595600a831f5b09e54eb.pl-pl.xlf)
+* Handoff Datetime: 2016-03-30 03:23:23
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='d806969f84c9f0307115a9f90c37df067a9de280591'></a> Source: [articles\app-service\test-exclude1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/20c505f716d1b76e19b84f635875444ab724d08b/articles/app-service/test-exclude1.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.pl-pl.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8d95631b3aaa882bc5559dbede99ad269a549fde/ol-handoff/OpenLocalizationOrg/hyperV.pl-pl/master/acomdc_nonhi/test-exclude1.9263ad3f65f1afaa761ed3a6a43cecf921fbfd1a.pl-pl.xlf)
+* Handoff Datetime: 2016-03-30 03:23:23
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
